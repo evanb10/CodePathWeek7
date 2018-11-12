@@ -1,0 +1,4 @@
+-By inspecting element on the comment input box, you can bypass current security measures and input a javascript that can carryout a XSS attack like any other.  In this case, I had it display an alert reading test. Alternatively, one could send many requests to the server with DoS attack.It is initially activated when the page is first loaded, then every mouse over following.
+
+Similar
+CVE-2016-4567
